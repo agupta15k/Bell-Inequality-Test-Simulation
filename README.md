@@ -91,6 +91,3 @@ Also, note that pre-computed measurements are stored currently for only 30 secon
     ├── README.md                          					# Readme file for the project
     ├── requirements.txt							# Details of dependency packages
 	└── results.txt								# Final simulation results during testing
-
-## Results
-Compiled results are relevant graphs can be referenced [here](https://docs.google.com/spreadsheets/d/15cmlClKoNLrya7TL2FLl6bodbmpPdFpLUzSbMntl0Ns/edit#gid=14467317).
