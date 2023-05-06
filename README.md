@@ -95,7 +95,3 @@ Also, note that pre-computed measurements are stored currently for only 30 secon
 
 ## Results
 Compiled results are relevant graphs can be referenced [here](https://docs.google.com/spreadsheets/d/15cmlClKoNLrya7TL2FLl6bodbmpPdFpLUzSbMntl0Ns/edit#gid=14467317).
-
-## Contributors
-
-Thanks goes to [these](https://github.ncsu.edu/kgowda/Quantum-Comm-Project/graphs/contributors) wonderful people.
