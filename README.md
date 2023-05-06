@@ -1,4 +1,3 @@
-# CSC 591 - Quantum Communications and Networks
 # Project - Bell Inequality Test simulation
 
 ## Problem statement
